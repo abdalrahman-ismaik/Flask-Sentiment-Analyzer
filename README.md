@@ -4,8 +4,6 @@ A modern web application that performs sentiment analysis on text using TextBlob
 
 ## Practice Project Overview
 
-**Estimated time needed:** 5 minutes
-
 This project demonstrates the integration of Natural Language Processing using TextBlob into a web application. The application performs sentiment analysis on provided text and is deployed using the Flask framework.
 
 ### Learning Objectives
