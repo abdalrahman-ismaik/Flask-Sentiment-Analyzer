@@ -1,4 +1,5 @@
 # Sentiment Analysis Web Application
+![image](https://github.com/user-attachments/assets/b843802a-aaef-4cce-904a-2e84b8118afe)
 
 A modern web application that performs sentiment analysis on text using TextBlob's Natural Language Processing capabilities. The application provides real-time sentiment analysis with a sleek, dark-themed user interface.
 
